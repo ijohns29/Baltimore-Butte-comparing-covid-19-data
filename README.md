@@ -28,11 +28,17 @@ Microsoft Excel will be used for data analysis
 - __What have been the previous month's recommendations from Governor or Mayor?__ This will provide an idea of how proactive government agencies are being at handling pandemic and allow for travel/post travel plans to be made so that the spread of Covid-19 can be limited and travel can be conducted safely or with minimized risk.
 
 # Data Answer
+## Trends in daily covid cases
 First we looked at daily covid cases, for the past ten days, for each of the cities being traveled through. This provides some surveillance of the landscape we're going to potentially be interacting with. Baltimore City, Fulton County, and Salt Lake County are mid size cities with populations ranging between 500k - 1.2 million. Silverbow county on the other hand is quite small with less than 35k people. The general trend appears to be that daily cases are rising or plateauing at relatively high levels. This suggests the region is in the midst of an active covid surge. But these are just daily cases its difficult to say based on this alone.
 ![alt text](Figure1_daily_cases.jpg)
 Secondly, we examined 3-day averaged incidence and 7 day averaged incidence for Baltimore City and Silver Bow county. According to the CDC, the 3-day incidence number can be used to determine whether illnesses in the area are increasing, decreasing, or stable. The 7-day incidence is a common metric included in county and state level data so we included that too. Often there tends to be decreases in testing over the weekend so this helps smooth that out. As noted below many states have requirements regarding testing, or travel adviseries etc., if the 7 day average of cases per 100k is over a certain threshold. Furthermore, depending on the level its possible to know the threat level of the region with [classifications](https://ethics.harvard.edu/files/center-for-ethics/files/key_metrics_and_indicators_v4.pdf) as follows: green (< 1 daily new case per 100k), yellow (< 10 daily new case per 100k), orange (10<25 daily new case per 100k), and red (> 25 daily new case per 100k). As one can see average cases per 100 k have risen significantly in both locations over the course of the last month. While Baltimore has experienced more a rising plateau, the outbreak in Silver Bow county is much more severe and illnesses are increasing rapidly. 
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure2_3dayavgincidence.jpg)
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure3_7dayavgincidence.jpg)
+
+## Trends in daily deaths and information on ICU capacity of hospitals
+
+
+![alt text]()
 
 ## Airport Safety Precautions
 1. Currently BWI airport has a number of administrative controls in [place](https://www.bwiairport.com/COVID19socialdistancing) to minimize spread of Covid-19. These include all restuarants at 50% capacity, social distancing and masks required, as well as various plexiglass installments at high traffic areas (e.g. security, airline counters, checkout lines etc.). Currently the government of the state of Maryland, and posted on the BWI [airport](https://www.bwiairport.com/COVID19socialdistancing) strongly discourages travel to areas with incidence equal to or greater than 20 per 100k. 
