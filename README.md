@@ -40,7 +40,7 @@ The daily death rate for Baltimore City and Silver Bow county are shown below in
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure4_daily%20deaths.jpg)
 ## Occupancy of Beds in Hospitals for Maryland and Montana
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure5%20Inpatient%20Beds%20in%20Hospital.jpg)
-
+![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure6%20Inpatient%20ICU%20Beds%20in%20Hospital.jpg)
 
 
 ## Airport Safety Precautions
