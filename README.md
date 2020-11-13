@@ -35,10 +35,11 @@ Secondly, we examined 3-day averaged incidence and 7 day averaged incidence for 
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure2_3dayavgincidence.jpg)
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure3_7dayavgincidence.jpg)
 
-## Trends in daily deaths and information on ICU capacity of hospitals
+## Trends in daily deaths
 The daily death rate for Baltimore City and Silver Bow county are shown below in FIgure 4. During the month of October and throughout November the death rate was stable in Baltimore city. In Silver Bow county there were essentially no deaths throughout October. However, as incidence began rising in October, this has lead to the death rate creeping up during the beginning of November. Given that cases per 100k are still rising there the death rate is expected to rise further. Additionally, Montana is a sparsely populated state. It does not have comparable resources to Maryland. Standards of care are likely to fall as cases rise, leading to more deaths, and the hospital bed ICU system has a much lower capacity compared to Maryland.
-
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure4_daily%20deaths.jpg)
+## Occupancy of Beds in Hospitals for Maryland and Montana
+![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure5%20Inpatient%20Beds%20in%20Hospital.jpg)
 
 
 
