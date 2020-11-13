@@ -36,9 +36,11 @@ Secondly, we examined 3-day averaged incidence and 7 day averaged incidence for 
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure3_7dayavgincidence.jpg)
 
 ## Trends in daily deaths and information on ICU capacity of hospitals
+The daily death rate for Baltimore City and Silver Bow county are shown below in FIgure 4. During the month of October and throughout November the death rate was stable in Baltimore city. In Silver Bow county there were essentially no deaths throughout October. However, as incidence began rising in October, this has lead to the death rate creeping up during the beginning of November. Given that cases per 100k are still rising there the death rate is expected to rise further. Additionally, Montana is a sparsely populated state. It does not have comparable resources to Maryland. Standards of care are likely to fall as cases rise, leading to more deaths, and the hospital bed ICU system has a much lower capacity compared to Maryland.
+
+![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure4_daily%20deaths.jpg)
 
 
-![alt text]()
 
 ## Airport Safety Precautions
 1. Currently BWI airport has a number of administrative controls in [place](https://www.bwiairport.com/COVID19socialdistancing) to minimize spread of Covid-19. These include all restuarants at 50% capacity, social distancing and masks required, as well as various plexiglass installments at high traffic areas (e.g. security, airline counters, checkout lines etc.). Currently the government of the state of Maryland, and posted on the BWI [airport](https://www.bwiairport.com/COVID19socialdistancing) strongly discourages travel to areas with incidence equal to or greater than 20 per 100k. 
